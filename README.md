@@ -2,6 +2,7 @@
 Cobalt Strike Beacon Notify version in Slack using Webhook
 
 I was studying how to create bacon notifications for slack, suddenly my dear friend Daniel Durnea posted this gold mine and made my work easier, full credits to the author b4r0nd3l4b1rr4
+
 https://github.com/b4r0nd3l4b1rr4/Teams-CS-Notifier
 
 
