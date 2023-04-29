@@ -1,4 +1,5 @@
 # notifyslack.cna
+# Created by b4r0nd3l4b1rr4
 $PythonScriptPath = script_resource("notify.py");
 
 # Hook for new beacons
